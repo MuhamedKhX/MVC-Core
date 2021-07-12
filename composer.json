@@ -1,0 +1,16 @@
+{
+    "name": "mh/php-mvc-core",
+    "description": "Core",
+    "autoload": {
+        "psr-4": {
+            "Mh\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "muhamexKhx",
+            "email": "muhamedkhx2@gmail.com"
+        }
+    ],
+    "require": {}
+}
