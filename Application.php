@@ -2,7 +2,7 @@
 
 
 namespace muhamex\phpmvc;
-
+//
 class Application
 {
     public string $userClass;
