@@ -1,5 +1,5 @@
 {
-    "name": "mh/php-mvc-core",
+    "name": "muhamex/php-mvc-core",
     "description": "Core",
     "autoload": {
         "psr-4": {
