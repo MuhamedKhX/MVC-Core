@@ -18,9 +18,9 @@ class AuthMiddleware extends BaseMiddleware
 
     public function execute()
     {
-        if(\app\core\Application::Guest())
+        if(\muhamex\phpmvc\Application::Guest())
         {
-            if(empty($this->actions) || in_array(\app\core\Controller::$action, $this->actions))
+            if(empty($this->actions) || in_array(\muhamex\phpmvc\Controller::$action, $this->actions))
             {
                 throw new exceptionX();
             }

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core;
+namespace muhamex\phpmvc;
 
 
 class Request

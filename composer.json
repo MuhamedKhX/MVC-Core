@@ -3,7 +3,8 @@
     "description": "Core",
     "autoload": {
         "psr-4": {
-            "Mh\\PhpMvcCore\\": "src/"
+            "Mh\\PhpMvcCore\\": "src/",
+            "muhamex\\phpmvc\\": "."
         }
     },
     "authors": [
